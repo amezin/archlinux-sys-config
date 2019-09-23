@@ -1,7 +1,7 @@
 pkgname=archlinux-sys-config
 pkgver=r1.1a13bbf
 pkgrel=1
-pkgdesc="Common Arch Linux system configuration bits"
+pkgdesc="Common Arch Linux tweaks"
 url="https://github.com/amezin/archlinux-sys-config"
 arch=('any')
 license=('GPL')
